@@ -529,3 +529,11 @@ nav li {
   @media (min-width: 800px) {
     #menuButton {
       display: none; } }
+
+#downloadButton {
+  border: 1px solid #888;
+  padding: 10px;
+  font-size: 4em;
+  background-color: #2a7ae2;
+  color: white;
+  text-decoration: underline; }
